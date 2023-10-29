@@ -1,0 +1,66 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.venv/
+.Python
+
+# Logs
+*.log
+
+# User-specific IDE files
+.idea/
+.vscode/
+*.sublime-workspace
+*.suo
+*.ntvs_analysis
+
+# Environment-specific files
+.env
+
+# Compiled Python files
+*.pyc
+
+# macOS folder attributes
+.DS_Store
+
+# Windows Thumbs.db file
+Thumbs.db
+
+# Compiled C extension files
+*.so
+
+# Python egg metadata
+*.egg-info/
+*.egg
+
+# Pipenv
+Pipfile
+Pipfile.lock
+
+# Tox
+.tox/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyInstaller
+dist/
+build/
+
+# Pylint
+__pylint__.py
+
+# SQLAlchemy
+*.sqlite
+
+# Jupyter
+.ipynb_checkpoints
+
+# End of file
+dependencies/
